@@ -28,18 +28,13 @@
 
 ## Github Stats & Weekly dev breakdown
 
-<img width="50%" display="inline-block" float="left" alt="ACBash's github stats" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
-
-<img width="40%" display="inline-block" float="right" alt="ACBash's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img width="50.4%" alt="ACBash's github stats" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
+  <img width="37.8%" alt="ACBash's top langs" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="50%" alt="ACBash's github stats" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
-  <img width="50%" alt="ACBash's top langs" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
-</div>
-
 
 ## Contact
 
