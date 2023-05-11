@@ -35,9 +35,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div style="display: inline-block;">
-  <img width="57%" alt="ACBash's github stats" style="float: left;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
-  <img width="43%" alt="ACBash's top langs" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="50%" alt="ACBash's github stats" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
+  <img width="50%" alt="ACBash's top langs" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
 </div>
 
 
