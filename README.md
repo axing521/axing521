@@ -26,7 +26,9 @@
     <img alt="Ant-design-vue" src="https://img.shields.io/badge/Ant%20Design%20Vue-E10098?style=flat-square&logo=Antdesign&logoColor=ffffff">
 </p>
 
-
 ## Github Stats & Weekly dev breakdown
 
 ![Caijr3's GitHub stats](https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
