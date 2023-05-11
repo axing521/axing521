@@ -26,14 +26,21 @@
     <img alt="Ant-design-vue" src="https://img.shields.io/badge/Ant%20Design%20Vue-E10098?style=flat-square&logo=Antdesign&logoColor=ffffff">
 </p>
 
-## Github Stats & Weekly dev breakdown
+## Github Stats & Most used langs
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img width="50.4%" alt="ACBash's github stats" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
   <img width="37.8%" alt="ACBash's top langs" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
 </div>
 
+## Weekly dev breakdown
+
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact
