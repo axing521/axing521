@@ -28,11 +28,18 @@
 
 ## Github Stats & Weekly dev breakdown
 
-![Caijr3's GitHub stats](https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical)
+<img width="50%" display="inline-block" float="left" alt="ACBash's github stats" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
+
+<img width="40%" display="inline-block" float="right" alt="ACBash's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+<div style="display: inline-block;">
+  <img width="57%" alt="ACBash's github stats" style="float: left;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
+  <img width="43%" alt="ACBash's top langs" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
+</div>
+
 
 ## Contact
 
