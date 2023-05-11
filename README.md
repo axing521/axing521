@@ -34,6 +34,11 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact
