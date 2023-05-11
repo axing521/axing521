@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, ACBash Here! 
 
-<!--
-**axing521/axing521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I code with
 
-Here are some ideas to get you started:
+<p>
+    <img alt="vscode" src="https://img.shields.io/badge/vscode-00adef?style=flat-square&logo=visualstudiocode&logoColor=ffffff">
+    <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=ffffff">
+    <img alt="express.js" src="https://img.shields.io/badge/-Express-311C87?style=flat-square&logo=Express&logoColor=ffffff">
+    <img alt="vue" src="https://img.shields.io/badge/Vue-13aa52?style=flat-square&logo=VUE.js&logoColor=ffffff">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff">
+    <img alt="ES6" src="https://img.shields.io/badge/ES6-yellow?style=flat-square&logo=javascript&logoColor=ffffff">
+    <img alt="axios" src="https://img.shields.io/badge/axios-1a73e8?style=flat-square&logo=axios&logoColor=ffffff">
+    <img alt="git" src="https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=ffffff">
+    <img alt="webpack" src="https://img.shields.io/badge/webpack-2088FF?style=flat-square&logo=webpack&logoColor=ffffff">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff">
+    <img alt="Yarn" src="https://img.shields.io/badge/yarn-46a2f1?style=flat-square&logo=yarn&logoColor=ffffff">
+    <img alt="PNPM" src="https://img.shields.io/badge/PNPM-45b8d8?style=flat-square&logo=pnpm&logoColor=ffffff">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-F9A03C?style=flat-square&logo=vite&logoColor=ffffff">
+    <img alt="Pinia" src="https://img.shields.io/badge/Pinia-CC6699?style=flat-square&logo=redux&logoColor=ffffff">
+    <img alt="Element-Plus" src="https://img.shields.io/badge/Element%20Plus%20-00adef?style=flat-square&logo=Element&logoColor=ffffff">
+    <img alt="Ant-design-vue" src="https://img.shields.io/badge/Ant%20Design%20Vue-E10098?style=flat-square&logo=Antdesign&logoColor=ffffff">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Github Stats & Weekly dev breakdown
+
+![Caijr3's GitHub stats](https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical)
