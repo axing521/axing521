@@ -2,7 +2,7 @@
 
 - A front-end engineer.
 - I’m studying for a master degree at [SKLNST, BUPT](http://sklnst.bupt.edu.cn/)(2022.9 ~ 2025.6).
-- Previous internship: Lenovo (IDG, 2023.1 ~ 2021.12).
+- Previous internship: Lenovo (IDG, 2023.1 ~ 2023.12).
 - I mainly write TypeScript, Javascript and Vue3.
 
 ## What I code with
