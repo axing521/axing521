@@ -2,8 +2,8 @@
 
 - A front-end engineer.
 - I’m studying for a master degree at [SKLNST, BUPT](http://sklnst.bupt.edu.cn/)(2022.9 ~ 2025.6).
-- Previous internship: Lenovo (IDG, 2023.1 ~ 2021.12).
-- I mainly write TypeScript, Javascript and Vue3.
+- Previous internship: Lenovo (IDG, 2023.1 ~ 2023.12).
+- I mainly write TypeScript, JavaScript and Vue3.
 
 ## What I code with
 
@@ -38,7 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+Vue          2 hrs 49 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.67 %
+TypeScript   2 hrs 15 mins   🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.26 %
+TSX          1 hrs 39 mins   🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.42 %
+JavaScript   0 hrs 56 mins   🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.11 %
+JSON         0 hrs 1 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.25 %
 ```
 
 <!--END_SECTION:waka-->
