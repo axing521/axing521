@@ -2,7 +2,7 @@
 
 - A front-end engineer.
 - I’m studying for a master degree at [SKLNST, BUPT](http://sklnst.bupt.edu.cn/)(2022.9 ~ 2025.6).
-- Previous internship: Lenovo (ISG, 2023.2 ~ 2023.12).
+- Previous internship: Lenovo (ISG, 2023.2 ~ 2023.7).
 - I mainly write TypeScript, JavaScript and Vue3.
 
 ## What I code with
@@ -32,16 +32,6 @@
   <img width="50.4%" alt="ACBash's github stats" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=axing521&show_icons=true&theme=radical">
   <img width="37.8%" alt="ACBash's top langs" style="flex: 1; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axing521&layout=compact">
 </div>
-
-## Weekly dev breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## Contact
 
